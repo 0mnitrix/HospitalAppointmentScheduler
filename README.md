@@ -40,37 +40,67 @@ Includes user authentication, role-based access, CSV import/export, file persist
 ## 🧪 Test Credentials
 
 ### 👑 Admin
-![Снимок экрана 2025-04-12 170932.png](screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-04-12%20170932.png)
+```
+Username: admin
+Password: admin123
+```
+
 ### 👤 User
+```
+Username: user
+Password: user123
+```
 
 ---
 
 ## 📸 Screenshots
 
 ### 🔐 Login Window
-![Снимок экрана 2025-04-12 170906.png](screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-04-12%20170906.png)
-
-### 🌙 Dark Mode
-![Снимок экрана 2025-04-12 171141.png](screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-04-12%20171141.png)
+![Login](screenshots/Снимок%20экрана%202025-04-12%20170906.png)
 
 ### 👤 User View
-![Снимок экрана 2025-04-12 170925.png](screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-04-12%20170925.png)
+![User View](screenshots/Снимок%20экрана%202025-04-12%20170925.png)
+
+### 🔑 Credentials Window
+![Credentials](screenshots/Снимок%20экрана%202025-04-12%20170932.png)
+
+### 🌙 Dark Mode
+![Dark Mode](screenshots/Снимок%20экрана%202025-04-12%20171141.png)
+
 ### 📤 Export to CSV
-![Снимок экрана 2025-04-12 180134.png](screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-04-12%20180134.png)
+![Export CSV](screenshots/Снимок%20экрана%202025-04-12%20180134.png)
 
 ---
 
 ## 📁 Project Structure
 
+```
+HospitalAppointmentScheduler/
+├── src/                          # Source code
+│   ├── Appointment.java
+│   ├── AppointmentManager.java
+│   ├── FileHandler.java
+│   ├── Logger.java
+│   ├── Main.java
+│   ├── MainWindow.java
+│   └── Validator.java
+├── screenshots/                 # Screenshots for README
+├── appointments.txt             # Data file
+├── appointments_export.csv      # CSV export sample
+├── appointments_import.csv      # CSV import sample
+├── log.txt                      # Log file
+├── .gitignore
+└── README.md
+```
 
 ---
 
 ## 🔗 Links
 
 - [🔗 GitHub Repository](https://github.com/0mnitrix/HospitalAppointmentScheduler)
-- 📹[ Google drive](https://drive.google.com/drive/folders/1ciLjz2-xBEiJhhBZUd3ROonH-nVWm2F0?usp=drive_link)
-
+- 📹 [Google Drive Presentation](https://drive.google.com/drive/folders/1ciLjz2-xBEiJhhBZUd3ROonH-nVWm2F0?usp=drive_link)
 
 ---
 
 🕓 Last updated: **April 2025**
+
