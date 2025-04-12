@@ -1,0 +1,12 @@
+[2025-04-10T10:27:22.866992600] Added appointment for Сабинина Мама with Dr. Кукуруза on 2024-12-12 at 13:13
+[2025-04-10T11:21:50.219532200] Generated appointment report
+[2025-04-10T11:22:01.570932600] Deleted appointment ID 2
+[2025-04-10T11:22:56.148428800] Deleted appointment ID 2
+[2025-04-10T11:32:40.101366] Generated appointment report
+[2025-04-10T11:40:15.310527200] [GUI] Deleted appointment ID 19
+[2025-04-10T11:41:14.640251400] [GUI] Added appointment for Charles Lutwidge Dodgson
+[2025-04-10T11:58:51.377217200] [AUTH] Login successful for user: admin as Admin
+[2025-04-12T15:28:34.322434100] [AUTH] Login successful for user: admin as Admin
+[2025-04-12T15:35:22.558099] [AUTH] Login successful for user: admin as Admin
+[2025-04-12T15:37:44.099337200] [GUI] Added appointment for Charles Lutwidge Dodgson
+[2025-04-12T15:38:10.671312100] [GUI] Deleted appointment ID 11
