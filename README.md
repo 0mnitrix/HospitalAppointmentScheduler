@@ -1,6 +1,6 @@
 # 🏥 Hospital Appointment Scheduler
 
-## 👤 Author
+## Author
 **Iskender Zholdubaev**
 
 ## 📄 Description
@@ -9,7 +9,7 @@ Includes user authentication, role-based access, CSV import/export, file persist
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Create, Read, Update, Delete (CRUD) for appointments
 - User-friendly **GUI** with Swing
 - **Authentication** with roles: Admin & User
@@ -37,34 +37,34 @@ Includes user authentication, role-based access, CSV import/export, file persist
 
 ---
 
-## 🧪 Test Credentials
+##  Test Credentials
 
 ### 👑 Admin
 ```
 Username: admin
-Password: admin123
+Password: admin
 ```
 
 ### 👤 User
 ```
 Username: user
-Password: user123
+Password: user
 ```
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
-### 🔐 Login Window
+###  Login Window
 ![Login](screenshots/Снимок%20экрана%202025-04-12%20170906.png)
 
 ### 👤 User View
 ![User View](screenshots/Снимок%20экрана%202025-04-12%20170925.png)
 
-### 🔑 Credentials Window
+###  Credentials Window
 ![Credentials](screenshots/Снимок%20экрана%202025-04-12%20170932.png)
 
-### 🌙 Dark Mode
+###  Dark Mode
 ![Dark Mode](screenshots/Снимок%20экрана%202025-04-12%20171141.png)
 
 ### 📤 Export to CSV
@@ -102,5 +102,5 @@ HospitalAppointmentScheduler/
 
 ---
 
-🕓 Last updated: **April 2025**
+ Last updated: **April 2025**
 
